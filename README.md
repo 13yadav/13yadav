@@ -19,7 +19,7 @@
 
 <br />
 
-**### Languages, Frameworks and Tools I know and use:**
+### Languages, Frameworks and Tools I know and use:
 
 - Android
 - Kotlin

@@ -1,8 +1,5 @@
 ### Hi there, I'm Ranjit Yadav - aka [13yadav][linkedin] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/imranjityadav?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F13yadav&screen_name=13yadav_)
-<br />
-
 ![Cover picture](cc.gif)
 
 ## I'm a Student and Developer!

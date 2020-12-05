@@ -1,4 +1,4 @@
-![Cover picture](covers/art.gif)
+![Cover picture](covers/intro.png)
 ### Hi there 👋
 
 ## Nice meeting you, I'm [Ranjit Yadav][linkedin]
@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning more about Jetpack Components, Flutter, Android development(Forever).
 - 👯 I’m looking for opportunities to collaborate with other Developers.
 - 💬 Ask me about Android in general or Jetpack Components.
-- 🥅 2020 Goals: Learn more Grow more...
+- 🥅 ~~2020~~ All Time Goals: Learn more Grow more...
 - 📫 How to reach me: [Twitter - @13yadav_](https://twitter.com/13yadav_)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm single😁
@@ -33,6 +33,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
+<a href="https://github.com/13yadav">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=13yadav&theme=light&hide_langs_below=1" />
+</a>
 
 ![Ranjit's github stats](https://github-readme-stats.vercel.app/api?username=13yadav&count_private=true&show_icons=true)
 

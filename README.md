@@ -1,7 +1,7 @@
 ![Cover picture](covers/intro.png)
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
-## Nice meeting you, I'm [Ranjit Yadav][linkedin]
+<!-- ## Nice meeting you, I'm [Ranjit Yadav][linkedin] -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=13yadav&label=Views&color=blue&style=plastic" alt="13yadav" /> </p>
 
@@ -18,7 +18,7 @@
 - 👯 I’m looking for opportunities to collaborate with other Developers.
 - 💬 Ask me about Android in general or Jetpack Components.
 - 🥅 ~~2020~~ All Time Goals: Learn more Grow more...
-- 📫 How to reach me: [Twitter - @13yadav_](https://twitter.com/13yadav_)
+- 📫 How to reach me: [Twitter - @13yadav_][twitter]
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm single😁
 
@@ -36,8 +36,9 @@
 <a href="https://github.com/13yadav">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=13yadav&theme=light&hide_langs_below=1" />
 </a>
-
-![Ranjit's github stats](https://github-readme-stats.vercel.app/api?username=13yadav&count_private=true&show_icons=true)
+<a href="https://github.com/13yadav">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=13yadav&show_icons=true&theme=light&line_height=27" alt="Guru's github stats"/>
+</a>
 
 <!-- Links  -->
 
@@ -45,3 +46,5 @@
 [instagram]: https://instagram.com/13yadav
 [linkedin]: https://linkedin.com/in/13yadav
 [facebook]: https://facebook.com/13ydv
+[github]: https://github.com/13yadav
+

@@ -17,7 +17,7 @@
 [![Twitter](https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&message=Twitter&label=&color=00acee&labelColor=000000)][twitter]
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&message=LinkedIn&label=&color=2867B2&labelColor=000000)][linkedin]
 [![Instagram](https://img.shields.io/static/v1?style=for-the-badge&logo=instagram&message=Instagram&label=&color=E1306C&labelColor=000000)][instagram]
-[![Facebook](https://img.shields.io/static/v1?style=for-the-badge&logo=facebook&message=Facebook&label=&color=3b5998&labelColor=000000)][facebook]
+[![Facebook](https://img.shields.io/static/v1?style=for-the-badge&logo=facebook&message=Facebook&label=&color=1873EB&labelColor=000000)][facebook]
 <a href="mailto:yadavranjit521@gmail.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&message=Gmail&label=&color=EA4335&labelColor=000000" /></a>
 
 <hr>
@@ -29,10 +29,11 @@
 ![Android Studio](https://img.shields.io/static/v1?style=for-the-badge&logo=android-studio&message=Android%20Studio&label=&color=00de7a&labelColor=000000)
 ![Flutter](https://img.shields.io/static/v1?style=for-the-badge&logo=flutter&message=Flutter&label=&color=01579B&labelColor=000000)
 ![Dart](https://img.shields.io/static/v1?style=for-the-badge&logo=dart&message=Dart&label=&color=2AB5F6&labelColor=000000)
-![Python](https://img.shields.io/static/v1?style=for-the-badge&logo=python&message=Python&label=&color=FFC831&labelColor=000000)
+![Python](https://img.shields.io/static/v1?style=for-the-badge&logo=python&message=Python&label=&color=3671A3&labelColor=000000)
 ![Django](https://img.shields.io/static/v1?style=for-the-badge&logo=django&message=Django&label=&color=092D1F&labelColor=000000)
 ![VS Code](https://img.shields.io/static/v1?style=for-the-badge&logo=visual-studio-code&message=VS%20Code&label=&color=0081CF&labelColor=000000)
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&logo=git&message=Git&label=&color=F05032&labelColor=000000)
+![Firebase](https://img.shields.io/static/v1?style=for-the-badge&logo=firebase&message=Firebase&label=&color=F7C52B&labelColor=000000)
 
 <hr>
 

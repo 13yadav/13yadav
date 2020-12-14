@@ -2,27 +2,22 @@
 
 <p align="left">  <img  src="https://komarev.com/ghpvc/?username=13yadav&label=Views&color=blue&style=plastic"  alt="13yadav" />  </p>
 
-<hr>
-
-### About Me:
+## About Me:
 - 🔭I'm an Android Developer from India.
 - 🌱 I’m currently learning more about Jetpack Components, Flutter, Android development(Forever).
 - 💬 Ask me about Android in general or Jetpack Components.
 - 🥅 ~~2020~~ All Time Goals: Learn more Grow more...
 - ⚡ Fun fact: I'm single😁
 
-<hr>
-
-### How to reach me:
+## How to reach me:
 [![Twitter](https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&message=Twitter&label=&color=00acee&labelColor=000000)][twitter]
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&message=LinkedIn&label=&color=2867B2&labelColor=000000)][linkedin]
 [![Instagram](https://img.shields.io/static/v1?style=for-the-badge&logo=instagram&message=Instagram&label=&color=E1306C&labelColor=000000)][instagram]
 [![Facebook](https://img.shields.io/static/v1?style=for-the-badge&logo=facebook&message=Facebook&label=&color=1873EB&labelColor=000000)][facebook]
 <a href="mailto:yadavranjit521@gmail.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&message=Gmail&label=&color=EA4335&labelColor=000000" /></a>
 
-<hr>
 
-### Tools & Technologies:
+## Tools & Technologies:
 ![Android](https://img.shields.io/static/v1?style=for-the-badge&logo=android&message=Android&label=&color=00de7a&labelColor=000000)
 ![Kotlin](https://img.shields.io/static/v1?style=for-the-badge&logo=kotlin&message=Kotlin&label=&color=3F82DB&labelColor=000000)
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&logo=java&message=Java&label=&color=E51F24&labelColor=000000)
@@ -35,10 +30,10 @@
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&logo=git&message=Git&label=&color=F05032&labelColor=000000)
 ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&logo=firebase&message=Firebase&label=&color=F7C52B&labelColor=000000)
 
+
 <hr>
 
 ![image](covers/dino.gif)
-<hr>
 
 <!-- Links -->
 [twitter]: https://twitter.com/imranjityadav

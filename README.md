@@ -31,7 +31,10 @@
 ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&logo=firebase&message=Firebase&label=&color=F7C52B&labelColor=000000)
 
 
-<hr>
+<img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=13yadav&layout=compact&theme=radical'>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
+
 
 ![image](covers/dino.gif)
 

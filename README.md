@@ -36,7 +36,7 @@
 ![image](covers/dino.gif)
 
 <!-- Links -->
-[twitter]: https://twitter.com/imranjityadav
+[twitter]: https://twitter.com/13yadav_
 [instagram]: https://instagram.com/13yadav
 [linkedin]: https://linkedin.com/in/13yadav
 [facebook]: https://facebook.com/13ydv

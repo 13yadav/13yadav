@@ -6,7 +6,7 @@
 - 🔭I'm an Android Developer from India.
 - 🌱 I’m currently learning more about Jetpack Components, Flutter, Android development(Forever).
 - 💬 Ask me about Android in general or Jetpack Components.
-- 🥅 ~~2020~~ All Time Goals: Learn more Grow more...
+- 🥅 ~~2021~~ All Time Goals: Learn more Grow more...
 - ⚡ Fun fact: I'm single😁
 
 ## How to reach me:

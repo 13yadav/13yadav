@@ -33,7 +33,7 @@
 
 <hr>
 
-![image](covers/dino.gif)
+![image](covers/dino_dark.gif)
 
 <!-- Links -->
 [twitter]: https://twitter.com/13yadav_

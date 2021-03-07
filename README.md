@@ -1,4 +1,4 @@
-![image](covers/intro.png)
+![image](covers/git_intro.png)
 
 <p align="left">  <img  src="https://komarev.com/ghpvc/?username=13yadav&label=Views&color=blue&style=plastic"  alt="13yadav" />  </p>
 

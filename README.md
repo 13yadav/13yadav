@@ -1,7 +1,5 @@
 ![image](covers/git_intro.png)
 
-<p align="left">  <img  src="https://komarev.com/ghpvc/?username=13yadav&label=Views&color=blue&style=plastic"  alt="13yadav" />  </p>
-
 ## About Me:
 - 🔭I'm an Android Developer from India.
 - 🌱 I’m currently learning more about Jetpack Components, Flutter, Android development(Forever).

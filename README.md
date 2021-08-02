@@ -18,7 +18,7 @@
 
 ![Android](https://img.shields.io/static/v1?style=for-the-badge&logo=android&message=Android&label=&color=00de7a&labelColor=000000)
 ![Laravel](https://img.shields.io/static/v1?style=for-the-badge&logo=laravel&message=Laravel&label=&color=FF2D20&labelColor=000000)
-![Node JS](https://img.shields.io/static/v1?style=for-the-badge&logo=node&message=Node%20JS&label=&color=#74B958&labelColor=000000)
+![Node JS](https://img.shields.io/static/v1?style=for-the-badge&logo=node.js&message=Node%20JS&label=&color=#212121&labelColor=000000)
 ![Express JS](https://img.shields.io/static/v1?style=for-the-badge&logo=express&message=Express%20JS&label=&color=000000&labelColor=000000)
 ![Django](https://img.shields.io/static/v1?style=for-the-badge&logo=django&message=Django&label=&color=092D1F&labelColor=000000)
 ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&logo=firebase&message=Firebase&label=&color=F7C52B&labelColor=000000)
@@ -31,8 +31,6 @@
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&logo=javascript&message=javascript&label=&color=F7DF1E&labelColor=000000)
 ![PHP](https://img.shields.io/static/v1?style=for-the-badge&logo=php&message=PHP&label=&color=777BB3&labelColor=000000)
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&logo=python&message=Python&label=&color=3671A3&labelColor=000000)
-
-<hr>
 
 ## How to reach me:
 

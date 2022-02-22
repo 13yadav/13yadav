@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning React JS.
 - 💬 Ask me about tech in general or Sofware Engineering.
 - 🥅 All Time Goal: Learn more Grow more...
-- ⚡ Fun fact: I'm single😁
+- ⚡ Fun fact: I'm single 😉
 
 
 <br>
@@ -20,6 +20,7 @@
 ![Laravel](https://img.shields.io/static/v1?style=for-the-badge&logo=laravel&message=Laravel&label=&color=FF2D20&labelColor=000000)
 ![Node JS](https://img.shields.io/static/v1?style=for-the-badge&logo=node.js&message=Node%20JS&label=&color=74b859&labelColor=000000)
 ![React JS](https://img.shields.io/static/v1?style=for-the-badge&logo=react&message=React%20JS&label=&color=61dafb&labelColor=000000)
+![Express JS](https://img.shields.io/static/v1?style=for-the-badge&logo=express&message=Express%20JS&label=&color=000&labelColor=000000)
 ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&logo=firebase&message=Firebase&label=&color=F7C52B&labelColor=000000)
 
 ## Languages:
@@ -64,5 +65,4 @@
 [twitter]: https://twitter.com/13yadav_
 [instagram]: https://instagram.com/13yadav
 [linkedin]: https://linkedin.com/in/13yadav
-[facebook]: https://facebook.com/13ydv
 [github]: https://github.com/13yadav

@@ -9,10 +9,6 @@
 - 💬 Ask me about tech in general or Sofware Engineering.
 - ⚡ Fun fact: I'm single 😉
 
-
-<br>
-<br>
-
 ## Technologies:
 
 ![Android](https://img.shields.io/static/v1?style=for-the-badge&logo=android&message=Android&label=&color=00de7a&labelColor=000000)

@@ -41,6 +41,24 @@
 
 ![image](covers/dino_dark.gif)
 
+<hr>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+  <img align="center" alt="13yadav's Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=13yadav&theme=blue-green&layout=compact" />
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="13yadav's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=13yadav&theme=blue-green"/>
+
+</details>
+
+
+<br><p align="center"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{13yadav}/count.svg" /></p>
+
 <!-- Links -->
 
 [twitter]: https://twitter.com/13yadav_

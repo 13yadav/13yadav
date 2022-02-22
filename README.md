@@ -5,8 +5,8 @@
 ## About Me:
 
 - 💻 I'm a Software Developer from India.
-- 🌱 I’m currently learning Web Development.
-- 💬 Ask me about tech in general or Android Development.
+- 🌱 I’m currently learning React JS.
+- 💬 Ask me about tech in general or Sofware Engineering.
 - 🥅 All Time Goal: Learn more Grow more...
 - ⚡ Fun fact: I'm single😁
 
@@ -18,11 +18,9 @@
 
 ![Android](https://img.shields.io/static/v1?style=for-the-badge&logo=android&message=Android&label=&color=00de7a&labelColor=000000)
 ![Laravel](https://img.shields.io/static/v1?style=for-the-badge&logo=laravel&message=Laravel&label=&color=FF2D20&labelColor=000000)
-![Node JS](https://img.shields.io/static/v1?style=for-the-badge&logo=node.js&message=Node%20JS&label=&color=#212121&labelColor=000000)
-![Express JS](https://img.shields.io/static/v1?style=for-the-badge&logo=express&message=Express%20JS&label=&color=000000&labelColor=000000)
-![Django](https://img.shields.io/static/v1?style=for-the-badge&logo=django&message=Django&label=&color=092D1F&labelColor=000000)
+![Node JS](https://img.shields.io/static/v1?style=for-the-badge&logo=node.js&message=Node%20JS&label=&color=74b859&labelColor=000000)
+![React JS](https://img.shields.io/static/v1?style=for-the-badge&logo=react&message=React%20JS&label=&color=61dafb&labelColor=000000)
 ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&logo=firebase&message=Firebase&label=&color=F7C52B&labelColor=000000)
-![Flutter](https://img.shields.io/static/v1?style=for-the-badge&logo=flutter&message=Flutter&label=&color=01579B&labelColor=000000)
 
 ## Languages:
 

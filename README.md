@@ -1,13 +1,12 @@
 ![image](covers/git_intro.png)
 
-<img align='right' src="covers/work-from-home.png" alt="drawing" height="200" width="200"/>
+<!-- <img align='right' src="covers/work-from-home.png" alt="drawing" height="200" width="200"/> -->
 
 ## About Me:
 
 - 💻 I'm a Software Developer from India.
 - 🌱 I’m currently learning React JS.
 - 💬 Ask me about tech in general or Sofware Engineering.
-- 🥅 All Time Goal: Learn more Grow more...
 - ⚡ Fun fact: I'm single 😉
 
 
@@ -33,8 +32,8 @@
 
 ## How to reach me:
 
-[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&message=LinkedIn&label=&color=2867B2&labelColor=000000)][linkedin]
 <a href="mailto:yadavranjit521@gmail.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&message=Gmail&label=&color=EA4335&labelColor=000000" /></a>
+[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&message=LinkedIn&label=&color=2867B2&labelColor=000000)][linkedin]
 [![Twitter](https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&message=Twitter&label=&color=00acee&labelColor=000000)][twitter]
 [![Instagram](https://img.shields.io/static/v1?style=for-the-badge&logo=instagram&message=Instagram&label=&color=E1306C&labelColor=000000)][instagram]
 
@@ -57,7 +56,9 @@
 </details>
 
 
-<br><p align="center"><b>Visitors Count</b></p>  
+<br>
+
+<p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{13yadav}/count.svg" /></p>
 
 <!-- Links -->

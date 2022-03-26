@@ -1,6 +1,6 @@
 ![image](covers/git_intro.png)
 
-<a href="https://www.twitter.com/13yadav_" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/13yadav_?logo=twitterstyle=for-the-badge&color=3382ed&labelColor=1c1917"/></a>
+<a href="https://www.twitter.com/13yadav_" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/13yadav_?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 <a href="https://www.github.com/13yadav" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/13yadav?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 
 <!-- <img align='right' src="covers/work-from-home.png" alt="drawing" height="200" width="200"/> -->

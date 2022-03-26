@@ -1,67 +1,73 @@
 ![image](covers/git_intro.png)
 
-<a href="https://www.twitter.com/13yadav_" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/13yadav_?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
-<a href="https://www.github.com/13yadav" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/13yadav?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
-
+<p align="center">
+<a href="https://www.twitter.com/13yadav_" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/13yadav_?logo=twitter&style=for-the-badge&color=fd428d&labelColor=423f6d" /></a>
+<a href="https://www.github.com/13yadav" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/13yadav?logo=github&style=for-the-badge&color=fd428d&labelColor=423f6d" /></a>
+</p>
+  
 <!-- <img align='right' src="covers/work-from-home.png" alt="drawing" height="200" width="200"/> -->
 
-## About Me:
+<h1 align="center">Namastey! I'm Ranjit Yadav 👨‍💻</h1>
 
-- 💻 I'm a Software Developer from India.
-- 🌱 I’m currently learning React JS.
-- 💬 Ask me about tech in general or Software Engineering.
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I'm single 😉
+<p align='center'>
+  I'm a Software Developer from India. I'm currently working as a Full-stack Developer. Exploring React, Next JS and TypeScript right now. You can ask me about tech in general or Software Engineering.
+</p>
 
-## Technologies:
+<h2 align='center'>Tools & Technologies</h2>
 
-![Android](https://img.shields.io/static/v1?style=for-the-badge&logo=android&message=Android&label=&color=00de7a&labelColor=000000)
-![Laravel](https://img.shields.io/static/v1?style=for-the-badge&logo=laravel&message=Laravel&label=&color=FF2D20&labelColor=000000)
-![Node JS](https://img.shields.io/static/v1?style=for-the-badge&logo=node.js&message=Node%20JS&label=&color=74b859&labelColor=000000)
-![React JS](https://img.shields.io/static/v1?style=for-the-badge&logo=react&message=React%20JS&label=&color=61dafb&labelColor=000000)
-![NextJS](https://img.shields.io/static/v1?style=for-the-badge&logo=next.js&message=Next%20JS&label=&color=000&labelColor=000000)
-![Express JS](https://img.shields.io/static/v1?style=for-the-badge&logo=express&message=Express%20JS&label=&color=000&labelColor=000000)
-![TailwindCSS](https://img.shields.io/static/v1?style=for-the-badge&logo=tailwindcss&message=Tailwind%20CSS&label=&color=000&labelColor=000000)
-![TailwindCSS](https://img.shields.io/static/v1?style=for-the-badge&logo=bootstrap&message=Bootstrap&label=&color=fcfcfc&labelColor=fcfcfc)
-![Firebase](https://img.shields.io/static/v1?style=for-the-badge&logo=firebase&message=Firebase&label=&color=F7C52B&labelColor=000000)
+<p align='center'>
+  <img src='https://img.shields.io/badge/Laravel-423f6d?style=for-the-badge&logo=laravel&logoColor=fd428d'>&nbsp;
+  <img src='https://img.shields.io/badge/PHP-423f6d?style=for-the-badge&logo=php&logoColor=fd428d'>&nbsp;
+  <img src='https://img.shields.io/badge/JavaScript-423f6d?style=for-the-badge&logo=javascript&logoColor=fd428d'>&nbsp;
+  <img src='https://img.shields.io/badge/React-423f6d?style=for-the-badge&logo=react&logoColor=fd428d'>&nbsp;
+  <img src='https://img.shields.io/badge/NextJS-423f6d?style=for-the-badge&logo=next.js&logoColor=fd428d'>&nbsp;
+  <img src='https://img.shields.io/badge/NodeJS-423f6d?style=for-the-badge&logo=javascript&logoColor=fd428d'>&nbsp;
+  <img src='https://img.shields.io/badge/Java-423f6d?style=for-the-badge&logo=java&logoColor=fd428d'>&nbsp;
+  <img src='https://img.shields.io/badge/Kotlin-423f6d?style=for-the-badge&logo=kotlin&logoColor=fd428d'>&nbsp;
+  <img src='https://img.shields.io/badge/Android-423f6d?style=for-the-badge&logo=android&logoColor=fd428d'>&nbsp;
+  <img src='https://img.shields.io/badge/TypeScript-423f6d?style=for-the-badge&logo=typescript&logoColor=fd428d'>&nbsp;
+  <img src='https://img.shields.io/badge/Python-423f6d?style=for-the-badge&logo=python&logoColor=fd428d'>&nbsp;
+  <img src='https://img.shields.io/badge/HTML-423f6d?style=for-the-badge&logo=html5&logoColor=fd428d'>&nbsp;
+  <img src='https://img.shields.io/badge/CSS-423f6d?style=for-the-badge&logo=css3&logoColor=fd428d'>&nbsp;
+  <img src='https://img.shields.io/badge/Bootstrap-423f6d?style=for-the-badge&logo=bootstrap&logoColor=fd428d'>&nbsp;
+  <img src='https://img.shields.io/badge/Tailwind-423f6d?style=for-the-badge&logo=tailwindcss&logoColor=fd428d'>&nbsp;
+  <img src='https://img.shields.io/badge/MySQL-423f6d?style=for-the-badge&logo=mysql&logoColor=fd428d'>&nbsp;
+  <img src='https://img.shields.io/badge/Git-423f6d?style=for-the-badge&logo=git&logoColor=fd428d'>&nbsp;
+  <img src='https://img.shields.io/badge/VS Code-423f6d?style=for-the-badge&logo=visual%20studio%20code&logoColor=fd428d'>&nbsp;
+</p>
 
-## Languages:
+<h2 align='center'>Connect with Me</h2>
 
-![Kotlin](https://img.shields.io/static/v1?style=for-the-badge&logo=kotlin&message=Kotlin&label=&color=6C3FD1&labelColor=000000)
-![Java](https://img.shields.io/static/v1?style=for-the-badge&logo=java&message=Java&label=&color=E51F24&labelColor=000000)
-![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&logo=javascript&message=javascript&label=&color=F7DF1E&labelColor=000000)
-![PHP](https://img.shields.io/static/v1?style=for-the-badge&logo=php&message=PHP&label=&color=777BB3&labelColor=000000)
-![Python](https://img.shields.io/static/v1?style=for-the-badge&logo=python&message=Python&label=&color=3671A3&labelColor=000000)
+<p align='center'>
+  <a href="https://twitter.com/13yadav_">
+    <img src="https://img.shields.io/badge/Twitter-423f6d?style=for-the-badge&logo=twitter&logoColor=fd428d" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/13yadav">
+    <img src="https://img.shields.io/badge/LinkedIN-423f6d?style=for-the-badge&logo=linkedin&logoColor=fd428d" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/13yadav">
+    <img src="https://img.shields.io/badge/Instagram-423f6d?style=for-the-badge&logo=instagram&logoColor=fd428d" />        
+  </a>&nbsp;&nbsp;
+  <a href="mailto:yadavranjit521@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-423f6d?style=for-the-badge&logo=gmail&logoColor=fd428d" />        
+  </a>&nbsp;&nbsp;
+</p>
 
-## How to reach me:
+<h2 align='center'>My GitHub Stats</h2>
 
-<a href="mailto:yadavranjit521@gmail.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&message=Gmail&label=&color=EA4335&labelColor=000000" /></a>
-[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&message=LinkedIn&label=&color=2867B2&labelColor=000000)][linkedin]
-[![Twitter](https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&message=Twitter&label=&color=00acee&labelColor=000000)][twitter]
-[![Instagram](https://img.shields.io/static/v1?style=for-the-badge&logo=instagram&message=Instagram&label=&color=E1306C&labelColor=000000)][instagram]
+<p align="center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=13yadav&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
 
-<hr>
+<p align="center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=13yadav&theme=redical">
+</p> 
 
-![image](covers/dino_dark.gif)
+<p align="center">
+ <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=13yadav&hide=html,css&layout=compact&theme=radical" />
+</p> 
 
-<hr>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-  <img align="center" alt="13yadav's Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=13yadav&theme=blue-green&layout=compact" />
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="13yadav's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=13yadav&theme=blue-green"/>
-
-</details>
-
-
-<br>
-
-<p align="center"><b>Visitors Count</b></p>  
+<p align="center"><b>Visitors Count</b></p>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{13yadav}/count.svg" /></p>
 
 <!-- Links -->

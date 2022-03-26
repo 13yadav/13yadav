@@ -1,12 +1,16 @@
 ![image](covers/git_intro.png)
 
+<a href="https://www.twitter.com/13yadav_" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/13yadav_?logo=twitterstyle=for-the-badge&color=3382ed&labelColor=1c1917"/></a>
+<a href="https://www.github.com/13yadav" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/13yadav?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
+
 <!-- <img align='right' src="covers/work-from-home.png" alt="drawing" height="200" width="200"/> -->
 
 ## About Me:
 
 - 💻 I'm a Software Developer from India.
 - 🌱 I’m currently learning React JS.
-- 💬 Ask me about tech in general or Sofware Engineering.
+- 💬 Ask me about tech in general or Software Engineering.
+- 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm single 😉
 
 
@@ -19,7 +23,10 @@
 ![Laravel](https://img.shields.io/static/v1?style=for-the-badge&logo=laravel&message=Laravel&label=&color=FF2D20&labelColor=000000)
 ![Node JS](https://img.shields.io/static/v1?style=for-the-badge&logo=node.js&message=Node%20JS&label=&color=74b859&labelColor=000000)
 ![React JS](https://img.shields.io/static/v1?style=for-the-badge&logo=react&message=React%20JS&label=&color=61dafb&labelColor=000000)
+![NextJS](https://img.shields.io/static/v1?style=for-the-badge&logo=next.js&message=Next%20JS&label=&color=000&labelColor=000000)
 ![Express JS](https://img.shields.io/static/v1?style=for-the-badge&logo=express&message=Express%20JS&label=&color=000&labelColor=000000)
+![TailwindCSS](https://img.shields.io/static/v1?style=for-the-badge&logo=tailwindcss&message=Tailwind%20CSS&label=&color=000&labelColor=000000)
+![TailwindCSS](https://img.shields.io/static/v1?style=for-the-badge&logo=bootstrap&message=Bootstrap&label=&color=fcfcfc&labelColor=fcfcfc)
 ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&logo=firebase&message=Firebase&label=&color=F7C52B&labelColor=000000)
 
 ## Languages:

@@ -1,16 +1,14 @@
-![image](covers/git_intro.png)
+![image](covers/hacker.gif)
 
 <p align="center">
 <a href="https://www.twitter.com/13yadav_" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/13yadav_?logo=twitter&style=for-the-badge&color=fd428d&labelColor=423f6d" /></a>
 <a href="https://www.github.com/13yadav" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/13yadav?logo=github&style=for-the-badge&color=fd428d&labelColor=423f6d" /></a>
 </p>
-  
-<!-- <img align='right' src="covers/work-from-home.png" alt="drawing" height="200" width="200"/> -->
 
 <h1 align="center">Namastey! I'm Ranjit Yadav 👨‍💻</h1>
 
 <p align='center'>
-  I'm a Software Developer from India. I'm currently working as a Full-stack Developer. Exploring React, Next JS and TypeScript right now. You can ask me about tech in general or Software Engineering.
+  I'm a Software Developer from India. I'm currently working as a Full-Stack Developer. Exploring React, Next JS and TypeScript right now. You can ask me about tech in general or Software Engineering.
 </p>
 
 <h2 align='center'>Tools & Technologies</h2>
@@ -57,15 +55,15 @@
 
 <p align="center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=13yadav&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
+</p>
 
 <p align="center">
  <img src="https://activity-graph.herokuapp.com/graph?username=13yadav&theme=redical">
-</p> 
+</p>
 
 <p align="center">
  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=13yadav&hide=html,css&layout=compact&theme=radical" />
-</p> 
+</p>
 
 <p align="center"><b>Visitors Count</b></p>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{13yadav}/count.svg" /></p>

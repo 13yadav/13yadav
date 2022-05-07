@@ -32,16 +32,16 @@
 <h2 align='center'>Connect with Me</h2>
 
 <p align='center'>
-  <a href="https://twitter.com/13yadav_">
+  <a href="https://twitter.com/13yadav_" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-423f6d?style=for-the-badge&logo=twitter&logoColor=fd428d" />        
   </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/13yadav">
+  <a href="https://linkedin.com/in/13yadav" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIN-423f6d?style=for-the-badge&logo=linkedin&logoColor=fd428d" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/13yadav">
+  <a href="https://instagram.com/13yadav" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-423f6d?style=for-the-badge&logo=instagram&logoColor=fd428d" />        
   </a>&nbsp;&nbsp;
-  <a href="mailto:yadavranjit521@gmail.com">
+  <a href="mailto:yadavranjit521@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-423f6d?style=for-the-badge&logo=gmail&logoColor=fd428d" />        
   </a>&nbsp;&nbsp;
 </p>

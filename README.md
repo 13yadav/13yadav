@@ -8,10 +8,10 @@
 <h1 align="center">Namastey! I'm Ranjit Yadav 👨‍💻</h1>
 
 <p align='center'>
-  I'm a Software Developer from India. I'm currently working as a Full-Stack Developer. Exploring React, Next JS and TypeScript right now. You can ask me about tech in general or Software Engineering.
+  I'm a Software Engineer from India. I'm currently working as a Full-Stack Developer. Exploring React, Next JS and TypeScript right now. You can ask me about tech in general or Software Engineering.
 </p>
 
-<h2 align='center'>Tools & Technologies</h2>
+<h2 align='center'>Languages & Frameworks</h2>
 
 <p align='center'>
   <img src='https://img.shields.io/badge/Laravel-423f6d?style=for-the-badge&logo=laravel&logoColor=fd428d'>&nbsp;
@@ -24,14 +24,9 @@
   <img src='https://img.shields.io/badge/Kotlin-423f6d?style=for-the-badge&logo=kotlin&logoColor=fd428d'>&nbsp;
   <img src='https://img.shields.io/badge/Android-423f6d?style=for-the-badge&logo=android&logoColor=fd428d'>&nbsp;
   <img src='https://img.shields.io/badge/TypeScript-423f6d?style=for-the-badge&logo=typescript&logoColor=fd428d'>&nbsp;
-  <img src='https://img.shields.io/badge/Python-423f6d?style=for-the-badge&logo=python&logoColor=fd428d'>&nbsp;
-  <img src='https://img.shields.io/badge/HTML-423f6d?style=for-the-badge&logo=html5&logoColor=fd428d'>&nbsp;
-  <img src='https://img.shields.io/badge/CSS-423f6d?style=for-the-badge&logo=css3&logoColor=fd428d'>&nbsp;
   <img src='https://img.shields.io/badge/Bootstrap-423f6d?style=for-the-badge&logo=bootstrap&logoColor=fd428d'>&nbsp;
   <img src='https://img.shields.io/badge/Tailwind-423f6d?style=for-the-badge&logo=tailwindcss&logoColor=fd428d'>&nbsp;
   <img src='https://img.shields.io/badge/MySQL-423f6d?style=for-the-badge&logo=mysql&logoColor=fd428d'>&nbsp;
-  <img src='https://img.shields.io/badge/Git-423f6d?style=for-the-badge&logo=git&logoColor=fd428d'>&nbsp;
-  <img src='https://img.shields.io/badge/VS Code-423f6d?style=for-the-badge&logo=visual%20studio%20code&logoColor=fd428d'>&nbsp;
 </p>
 
 <h2 align='center'>Connect with Me</h2>

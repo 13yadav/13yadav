@@ -18,7 +18,7 @@
   <img src='https://img.shields.io/badge/PHP-423f6d?style=for-the-badge&logo=php&logoColor=fd428d'>&nbsp;
   <img src='https://img.shields.io/badge/JavaScript-423f6d?style=for-the-badge&logo=javascript&logoColor=fd428d'>&nbsp;
   <img src='https://img.shields.io/badge/React-423f6d?style=for-the-badge&logo=react&logoColor=fd428d'>&nbsp;
-  <img src='https://img.shields.io/badge/NextJS-423f6d?style=for-the-badge&logo=next.js&logoColor=fd428d'>&nbsp;
+  <img src='https://img.shields.io/badge/VueJS-423f6d?style=for-the-badge&logo=vue.js&logoColor=fd428d'>&nbsp;
   <img src='https://img.shields.io/badge/NodeJS-423f6d?style=for-the-badge&logo=javascript&logoColor=fd428d'>&nbsp;
   <img src='https://img.shields.io/badge/Java-423f6d?style=for-the-badge&logo=java&logoColor=fd428d'>&nbsp;
   <img src='https://img.shields.io/badge/Kotlin-423f6d?style=for-the-badge&logo=kotlin&logoColor=fd428d'>&nbsp;

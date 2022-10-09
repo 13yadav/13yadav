@@ -1,7 +1,7 @@
 ![image](covers/hacker.gif)
 
 <p align="center">
-<a href="https://www.twitter.com/13yadav_" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/13yadav_?logo=twitter&style=for-the-badge&color=fd428d&labelColor=423f6d" /></a>
+<a href="https://www.twitter.com/iamranjity" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/iamranjity?logo=twitter&style=for-the-badge&color=fd428d&labelColor=423f6d" /></a>
 <a href="https://www.github.com/13yadav" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/13yadav?logo=github&style=for-the-badge&color=fd428d&labelColor=423f6d" /></a>
 </p>
 
@@ -32,7 +32,7 @@
 <h2 align='center'>Connect with Me</h2>
 
 <p align='center'>
-  <a href="https://twitter.com/13yadav_" target="_blank">
+  <a href="https://twitter.com/iamranjity" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-423f6d?style=for-the-badge&logo=twitter&logoColor=fd428d" />        
   </a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/13yadav" target="_blank">

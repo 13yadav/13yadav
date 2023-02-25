@@ -2,16 +2,20 @@
   <img src="./covers/hello-world.gif" height="300rem"/>
 </p>
 
-<h1 align="center">Hey there! I'm Ranjit Yadav 👨‍💻</h1>
-
+<h1 align="center">Hi there, I'm Ranjit Yadav 👋</h1>
 <p align='center'>
-  I'm a Software Engineer from India. I'm currently working as a Full-Stack Developer. Exploring React, Next JS and TypeScript right now. You can ask me about tech in general or Software Engineering.
+  I'm a Full-stack Developer with experience in building robust and scalable web applications using various technologies. My passion for programming and solving complex problems drives me to constantly learn and explore new technologies. I am currently learning ReactJS, along with NextJS.
 </p>
 
 <h2 align='center'> 💻 Tools & Technology</h2>
 
 <p align="center">
    <img src="https://skillicons.dev/icons?i=javascript,php,typescript,java,py,html,css,laravel,react,nextjs,vue,nodejs,express,mysql,mongodb,bootstrap,tailwind,vite,git,github,postman,vscode,figma" />
+</p>
+
+<h2 align="center">💬 Ask me about</h2>
+<p align='center'>
+  Feel free to reach out to me for any queries related to web development, technology, or programming in general. I'm always happy to help and share my knowledge.
 </p>
 
 <h2 align='center'>Connect with Me</h2>

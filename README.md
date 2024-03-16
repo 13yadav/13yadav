@@ -1,6 +1,6 @@
 ## Hey, I'm Ranjit Yadav 👋
 
-<img src="./assets/cc.gif" height="300rem"/>
+<img src="./assets/cc.gif" />
 
 ## About me
 
@@ -11,14 +11,18 @@ I can create effective and innovative technical solutions, and I always keep lea
 I love technology and strive for excellence in everything I do. I'm confident in my value and innovation, and I'm ready for new challenges and exceptional results.
 
 ## Tech I know
+- **Languages**: JavaScript, TypeScript, PHP, Python, HTML, CSS
+- **Front-end**: React.js, Next.js, Vue.js, jQuery, TailwindCSS
+- **Back-end**: Node.js, Express.js, MySQL, PostgreSQL, MongoDB, Laravel, Docker
+- **Other**: RESTful API Design, Agile Methodologies
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,php,py,html,css" />
-<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,vue,express,laravel,mysql,postgresql,mongodb,docker," />
+<!-- <img src="https://skillicons.dev/icons?i=javascript,typescript,php,py,html,css" />
+<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,vue,express,laravel,mysql,postgresql,mongodb,docker," /> -->
 
 ## Connect with me
 
 <a href="https://twitter.com/iamranjity" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <img src="https://img.shields.io/badge/X(Twitter)-000?style=for-the-badge&logo=x&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/13yadav" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -26,10 +30,6 @@ I love technology and strive for excellence in everything I do. I'm confident in
 <a href="https://instagram.com/13yadav" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>&nbsp;&nbsp;
-
----
-
-<b>Visitors Count</b>
-<p>
-  <img src="https://profile-counter.glitch.me/{13yadav}/count.svg" />
-</p>
+<a href="mailto:yadavranjit521@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;

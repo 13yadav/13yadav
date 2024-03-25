@@ -4,7 +4,7 @@
 
 ## About me
 
-Hi, I'm Ranjit Yadav, a Full-stack Developer with a passion for technology. I started as an Android developer, but now I'm skilled in various languages and frameworks, such as MERN, Next.js, Laravel, Vue.js, JavaScript, TypeScript, SQL and NoSQL.
+Hi, I'm Ranjit Yadav, a Full-stack Developer with a passion for technology. I started as an Android developer, but now I'm skilled in various languages and frameworks, such as MERN, Next.js, Laravel, Vue.js, JavaScript, TypeScript, SQL, and NoSQL.
 
 I can create effective and innovative technical solutions, and I always keep learning and growing. I have worked on challenging projects with diverse teams, and I communicate well and think strategically. I'm a team player who values collaboration and supports my colleagues.
 
@@ -15,6 +15,7 @@ I love technology and strive for excellence in everything I do. I'm confident in
 - **Front-end**: React.js, Next.js, Vue.js, jQuery, TailwindCSS
 - **Back-end**: Node.js, Express.js, MySQL, PostgreSQL, MongoDB, Laravel, Docker
 - **Other**: RESTful API Design, Agile Methodologies
+- **Learning**: DevOps
 
 <!-- <img src="https://skillicons.dev/icons?i=javascript,typescript,php,py,html,css" />
 <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,vue,express,laravel,mysql,postgresql,mongodb,docker," /> -->

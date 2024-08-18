@@ -22,7 +22,7 @@ I love technology and strive for excellence in everything I do. I'm confident in
 
 ## Connect with me
 
-<a href="https://twitter.com/iamranjity" target="_blank">
+<a href="https://twitter.com/ranjit_codes" target="_blank">
   <img src="https://img.shields.io/badge/X(Twitter)-000?style=for-the-badge&logo=x&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/13yadav" target="_blank">

@@ -22,13 +22,13 @@ I love technology and strive for excellence in everything I do. I'm confident in
 
 ## Connect with me
 
-<a href="https://twitter.com/ranjit_codes" target="_blank">
+<a href="https://twitter.com/rannjiit" target="_blank">
   <img src="https://img.shields.io/badge/X(Twitter)-000?style=for-the-badge&logo=x&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/13yadav" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://instagram.com/13yadav" target="_blank">
+<a href="https://instagram.com/rannjiit" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="mailto:yadavranjit521@gmail.com" target="_blank">
